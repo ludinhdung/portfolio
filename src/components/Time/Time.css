@@ -1,0 +1,9 @@
+.time-information {
+  border: 1px solid var(--border-dark);
+  padding: 10px 0px;
+}
+
+.current-time {
+  text-align: center;
+  font-size: 14px;
+}
