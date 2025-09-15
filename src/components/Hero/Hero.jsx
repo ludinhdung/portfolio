@@ -30,7 +30,7 @@ function Hero() {
         </p>
         <a
           className="download"
-          href="/public/Resume_LuDinhDung_EN.pdf"
+          href="/Resume_LuDinhDung_EN.pdf"
           download
         >
           Download me ↓
